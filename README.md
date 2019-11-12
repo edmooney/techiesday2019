@@ -4,7 +4,9 @@
 
  * Udemy.com: https://www.udemy.com/topic/aws-certification/free/
  
- * edx.org: https://www.edx.org/course?search_query=AWS+cloud (AWS)
+ * edx.org (AWS): https://www.edx.org/course?search_query=AWS+cloud
+ 
+ * edx.org (Azure): https://www.edx.org/course?search_query=azure+cloud
  
  * AWS training: https://aws.amazon.com/training/intro-to-aws-labs-sm/
  
